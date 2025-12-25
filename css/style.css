@@ -45,6 +45,7 @@ nav a:hover { border-bottom: 2px dashed var(--ink-color); }
     justify-content: center;
     align-items: center;
     height: 50vh;
+    text-align: center;
 }
 
 /* Gallery & Polaroid */
@@ -235,4 +236,5 @@ select {
 .chaos-gallery {
     overflow-x: hidden;
     width: 100%;
+
 }
