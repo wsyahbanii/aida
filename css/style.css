@@ -120,7 +120,7 @@ nav a:hover { border-bottom: 2px dashed var(--ink-color); }
 }
 
 /* --- Variabel Rotasi & Margin (Sesuai Struktur Kamu) --- */
-.polaroid:nth-child(1) { --rot: -4deg; --mt: 0px; }
+.polaroid:nth-child(1) { --rot: -4deg; --mt: 20px; }
 .polaroid:nth-child(2) { --rot: 3deg; --mt: 50px; }
 .polaroid:nth-child(3) { --rot: -6deg; --mt: 0px; }
 .polaroid:nth-child(4) { --rot: 5deg; --mt: 30px; }
@@ -130,6 +130,16 @@ nav a:hover { border-bottom: 2px dashed var(--ink-color); }
 .polaroid:nth-child(8) { --rot: 10deg; --mt: -10px; }
 .polaroid:nth-child(9) { --rot: 7deg; --mt: 10px; }
 .polaroid:nth-child(10) { --rot: 7deg; --mt: 10px; }
+.polaroid:nth-child(11) { --rot: -8deg; --mt: 40px; }
+.polaroid:nth-child(12) { --rot: 4deg; --mt: 0px; }
+.polaroid:nth-child(13) { --rot: -6deg; --mt: 20px; }
+.polaroid:nth-child(14) { --rot: 5deg; --mt: 30px; }
+.polaroid:nth-child(15) { --rot: -3deg; --mt: 10px; }
+.polaroid:nth-child(16) { --rot: 6deg; --mt: -10px; }
+.polaroid:nth-child(17) { --rot: -7deg; --mt: 30px; }
+.polaroid:nth-child(18) { --rot: 8deg; --mt: 0px; }
+.polaroid:nth-child(19) { --rot: -4deg; --mt: 20px; }
+.polaroid:nth-child(20) { --rot: 3deg; --mt: 50px; }    
 /* Navigasi Cerita */
 .story-container { text-align: center; padding: 20px; }
 .story-content { font-size: 1.4rem; min-height: 200px; margin: 20px 0; font-style: italic; }
