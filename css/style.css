@@ -142,7 +142,7 @@ nav a:hover { border-bottom: 2px dashed var(--ink-color); }
 .polaroid:nth-child(20) { --rot: 3deg; --mt: 50px; }    
 /* Navigasi Cerita */
 .story-container { text-align: center; padding: 20px; }
-.story-content { font-size: 1.4rem; min-height: 200px; margin: 20px 0; font-style: italic; }
+.story-content { font-size: 1.4rem; min-height: 200px; margin: 20px 0; font-style: italic; text-align: justify; }
 .controls { display: flex; justify-content: space-between; align-items: center; margin-top: 30px; }
 button {
     background: none; border: 2px solid var(--ink-color);
@@ -246,5 +246,6 @@ select {
 .chaos-gallery {
     overflow-x: hidden;
     width: 100%;
+
 
 }
