@@ -25,7 +25,7 @@ const myStories = [
         text: `Haiiii sayangkuuuu..... \n\n\u2003\u2003Hari ini mau cerita santai aja kali ya ay, alhamdulilah UAS aku selesai dengan keadaan otak yg tidak baik wkwk. Karena emg gtau terlalu sering mikirin org gtu akunya teh, terus udh gitu temen aku pada banyak yg gtau atau buta gtu. Dan aku jdi kepikiran gtu gtau kenapa geh, kepikiran nnti gmna klo ga lulus bareng, nanti gimana klo mereka bakal DropOut, gmna klo mereka bakal nyerah. Tapi ya aku berharapnya mereka pada bisa berhasil sih....aamiin. \n\n\u2003\u2003Terus hari ini tadi for the first time nongkrongnya bukan di warkop, tpi di danau wkwkwk. Gatau kenapa seru banget gitu weh asli kea emg aku sendiri dari dulu pgn gtu buat bisa main kemana aja gtu ama anak2, cuma keseringan dari mereka tu banyak yg ada kesibukan lain lah. Dan biasanya pun ya Nabil kloga Fatwa, krna gaada yg mau ya kita bertiga doang pling sering balik terkahir di wakrop. Dan mungkin ini karena UAS si ya last in Semester 3 mknya bnyk dari mereka pada mau main. \n\n\u2003\u2003 Oiyaa kamuuu giamana sayang kabarnya? Baik kann? Gimana hafalannya? lancar dong harusnya..... semoga selalu diberi kemudahan yah sayangku dari segala urusan kamuu, dan semoga kamu diberi kesehatan, diberi kebahagiaan. Bye The Way aku kangennn huahhhhhh... Ada yg kangen aku ga ya ay? kamu kangen aku ga? kanngen dong please heheee. Oiya btw aku kayanya bakal jadi di CUT dari kerjaan deh ay, kemarin rabu pas aku mau balik bang yadi bilang ke aku klo bang onile udh nyari org baru 3 orang, buat siap siap gantiin aku (aku mikir kea gantiin aku doang segala 3 orang wkwkwk), n terus bang yadi bilang bakal di CUT bulan ini udh pasti dan aku masih gatau kapan. Dan aku masuk 2 hari kerja kemarin bnyk bat paketnya, sebenernya normal si 150an. Cuma ntah karena aku abis pulih dari sakit jadi kea kaget gitu mungkin, 2 hari aku masuk kemaren si untungnya paket pending aku selama aku libur bisa aku abisin. Jadi gaada beban lagi klo aku libur hari kamis. \n\n\u2003\u2003Cukup sekian yah sayang ku pikiran aku lagi kacau gtau kenapa, ini mknya ku ngetik cerita biar ngereda. aku cuma mau bilang "Semenjak kamu dipondok hariku kaya sepi banget ayyy" udah gaada yg nelfon aku di pagi hari lagi. \n\nI feel like, my life was black and white again babe......  Isytaqtu ilaiki`
     },
     {
-        date: "13 Januari 2026 3.43 (Day 9)"  
+        date: "13 Januari 2026 3.43 (Day 9)",
         text: `I'm tired......but I won't give up.`
     }
 ];
@@ -73,6 +73,7 @@ window.onload = () => {
     populateSelect();
     updateDisplay();
 };
+
 
 
 
