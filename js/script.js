@@ -26,7 +26,7 @@ const myStories = [
     },
     {
         date: "13 Januari 2026 3.43 (Day 9)"  
-        text: `I'm tired.....but I won't give up.`
+        text: `I'm tired......but I won't give up.`
     }
 ];
 
@@ -73,5 +73,6 @@ window.onload = () => {
     populateSelect();
     updateDisplay();
 };
+
 
 
