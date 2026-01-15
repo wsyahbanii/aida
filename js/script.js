@@ -27,11 +27,11 @@ const myStories = [
     {
         date: "13 Januari 2026 3.43 (Day 9)",
         text: `I'm tired........but I won't give up.`
-    }
+    },
     {
         date: "15 Januari 2026 23.42 (Day 11)",
         text: `Haii Cantik... \n\n\u2003\u2003Apa kabar sayangku?? Gimana hafalannya??\n\nSemoga semua berlajan dengan lancar yah sayang, kabarku didetik ini ntah lah mungkin udah membaik. Beberapa hari belakangan selalu dihantui sama "you know lah" dan sekarang alhamdulillahnya udh membaik/better/damai. Aku masih sayang sama kamu ay, dan yg aku maksud waktu itu aku pengen denger kamu bilang, maksudnya aku mau baca/denger kamu bilang "aku sayang kamu" bukan wopyu ahaha tpi gapapa lucu lucu. \n\n\u2003\u2003Mungkin kamu juga belakangan ingin selalu dihantui dengan kejadian kemarin kn ay? kamu tenang aja okeii sayangkuuu, aku bakal tetep jadi bani yg kamu kenal kok cantik. Coba kita absen tgl 11 kejadian muncul aku mikirin kamu, tanggal 12 kamu udh mulai off aku mikirin kamu juga, tanggal 13 i feel like gapunya siapa siapa lagi tapi disitu aku mikir ada kamu lagi, tanggal 14 kemarin sama aku banyak chat di whatsapp aku mikirin kamu, dan hari ini tanggal 15 aku juga masih mikirin kamu. Kok kamu berlalu lalang dipikiran aku terus ayy, aku jadi kangenn kalo kamu mondar mandir terusss. haha maaf gajelas. Just trying to be my self again when im with my girl.\n\n\u2003\u2003Hari ini aku bawa paket 201 tpi dlv 175 doang abis itu narik dan hari ini aku belum bobo sama sekali, aku minta maaf udh ga nurut sama kamu. Tpi ada sesuatu hal yg ngebikin aku gabisa bobo, rada malu mo nyeritain. Intinya disini aku mau bercerita sama kekasihku/pasanganku/perempuanku/pacarku?/bestieee ku?wkkwk ngga ngaa, kamu kekasihku "Satu-satunya". \n\n I Love You Aida  ~Bani`
-    }
+    },
 ];
 
 let currentIndex = myStories.length - 1; // Mulai dari cerita terbaru
@@ -77,6 +77,7 @@ window.onload = () => {
     populateSelect();
     updateDisplay();
 };
+
 
 
 
